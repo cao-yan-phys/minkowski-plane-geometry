@@ -1,0 +1,19 @@
+# Lake build products and dependency checkouts
+.lake/
+*.olean
+*.ilean
+
+# Local editor and operating-system state
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary output should documentation be regenerated locally.
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
