@@ -60,4 +60,5 @@ import MinkowskiMerge.Triangle.FeuerbachNullInfinity
 import MinkowskiMerge.Triangle.FeuerbachCompactified
 import MinkowskiMerge.Triangle.Pedal
 import MinkowskiMerge.Triangle.PedalNonmixed
+import MinkowskiMerge.Triangle.PedalGeneral
 import MinkowskiMerge.Triangle.OrthocenterDuality
